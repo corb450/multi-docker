@@ -24,7 +24,7 @@
         },
         {
             "name": "nginx",
-            "image": "corb450/multi-nginx",
+            "image": "corb450/multi-docker-nginx",
             "hostname": "nginx",
             "essential": true,
             "portMappings": [
